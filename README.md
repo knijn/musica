@@ -1,6 +1,7 @@
-# musica
+# Musica
+Musica is the Musicify variant for vanilla ComputerCraft:Tweaked
 
-music for computercraft speakers yes
 
 
-made by pjals edition
+### Credits
+Main code idea by pjals @devomaa
